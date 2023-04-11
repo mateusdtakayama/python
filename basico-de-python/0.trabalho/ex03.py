@@ -77,6 +77,7 @@ def rotaObjeto():
             continue
     return multiplicador
 
+print("Bem vindo a transportadora Mateus Delai Takayama")
 peso = pesoObjeto()
 dimensoes = dimensoesObjeto()
 rota = rotaObjeto()
